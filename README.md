@@ -47,8 +47,6 @@ Nebula Forge provides the following functionalities:
 - app/NebulaForge.mjs  
 - package.json  
 - contracts/TokenDistributor.sol  
-- contracts/TransactionManager.sol  
-- contracts/BlockAnalyzer.sol  
 - config/base-sepolia.json  
 - samples/targets.json  
 
